@@ -1,4 +1,4 @@
-##Simple Bootstrap template
+##Simple Bootstrap project
 
 - [x] 12 columns layout
 - [x] dialog prompts: Modal.js
